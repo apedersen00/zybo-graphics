@@ -12,6 +12,10 @@
 
 This repository demonstrates a complete real-time graphics platform on the Digilent Zybo board, capable of __Full HD (1920x1080) at 60 FPS__. The system is co-designed in hardware and software to offload graphics rendering from the CPU onto a custom GPU IP core, freeing the CPU for other tasks. A two-player Pong game serves as a proof-of-concept.
 
+## Report
+
+Available [here](https://github.com/apedersen00/zybo-graphics/releases/download/v1.0/real-time-graphics.pdf).
+
 ## Features
 
 - __Custom GPU IP__ for hardware-accelerated rendering and alpha compositing. Made using HLS.
